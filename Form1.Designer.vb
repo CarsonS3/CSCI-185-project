@@ -54,7 +54,7 @@ Partial Class mainForm
         Me.btnEnglish.Name = "btnEnglish"
         Me.btnEnglish.Size = New System.Drawing.Size(172, 86)
         Me.btnEnglish.TabIndex = 2
-        Me.btnEnglish.Text = "English"
+        Me.btnEnglish.Text = "History"
         Me.btnEnglish.UseVisualStyleBackColor = True
         '
         'btnMath
